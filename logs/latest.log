@@ -1,0 +1,505 @@
+[19:51:42] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[19:51:43] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:51:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:51:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:51:43] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:51:43] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:51:43] [main/INFO]: Reloading ResourceManager: Default
+[19:51:44] [Worker-Main-10/INFO]: Loaded 7 recipes
+[19:51:44] [Worker-Main-10/INFO]: Loaded 927 advancements
+[19:51:46] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[19:51:46] [Server thread/INFO]: Loading properties
+[19:51:46] [Server thread/INFO]: Default game type: SURVIVAL
+[19:51:46] [Server thread/INFO]: Generating keypair
+[19:51:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:51:46] [Server thread/INFO]: Using default channel type
+[19:51:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:51:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:51:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:51:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:51:50] [Server thread/INFO]: Preparing level "world"
+[19:51:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:51:52] [Server thread/INFO]: Preparing spawn area: 0%
+[19:51:52] [Server thread/INFO]: Preparing spawn area: 0%
+[19:51:52] [Server thread/INFO]: Preparing spawn area: 0%
+[19:51:52] [Server thread/INFO]: Preparing spawn area: 0%
+[19:51:52] [Server thread/INFO]: Preparing spawn area: 0%
+[19:51:52] [Server thread/INFO]: Preparing spawn area: 0%
+[19:51:53] [Server thread/INFO]: Preparing spawn area: 0%
+[19:51:56] [Server thread/INFO]: Time elapsed: 6285 ms
+[19:51:56] [Server thread/INFO]: Done (6.422s)! For help, type "help"
+[19:52:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2390ms or 47 ticks behind
+[20:14:30] [Server thread/INFO]: Gumpyuie[/26.92.159.152:52131] logged in with entity id 246 at (815.5724560972719, 63.0, 413.15841368066253)
+[20:14:30] [Server thread/INFO]: Gumpyuie joined the game
+[20:14:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[20:15:53] [Server thread/INFO]: [Gumpyuie: Teleported Gumpyuie to 1706.5, 64.0, 936.5]
+[20:19:03] [Server thread/WARN]: Gumpyuie moved too quickly! 2.494960320990458,1.1661092609382138,-9.913058572730392
+[20:20:24] [Server thread/INFO]: [Gumpyuie: Teleported Gumpyuie to 1706.5, 64.0, 936.5]
+[20:22:40] [Server thread/INFO]: [Gumpyuie: Gave 64 [Blaze Powder] to Gumpyuie]
+[20:24:14] [Server thread/INFO]: [Gumpyuie: Gave 64 [Nether Wart] to Gumpyuie]
+[20:26:16] [Server thread/INFO]: Gumpyuie lost connection: Timed out
+[20:26:16] [Server thread/INFO]: Gumpyuie left the game
+[20:26:59] [Server thread/INFO]: Gumpyuie[/26.92.159.152:52287] logged in with entity id 2441 at (1708.8448242077704, 61.0, 941.9728307620326)
+[20:26:59] [Server thread/INFO]: Gumpyuie joined the game
+[20:27:32] [Server thread/INFO]: Gumpyuie lost connection: Timed out
+[20:27:32] [Server thread/INFO]: Gumpyuie left the game
+[20:28:10] [Server thread/INFO]: Gumpyuie[/26.92.159.152:52308] logged in with entity id 2508 at (1708.8448242077704, 61.0, 941.9728307620326)
+[20:28:10] [Server thread/INFO]: Gumpyuie joined the game
+[20:28:42] [Server thread/INFO]: Gumpyuie lost connection: Timed out
+[20:28:42] [Server thread/INFO]: Gumpyuie left the game
+[20:29:23] [Server thread/INFO]: Gumpyuie[/26.92.159.152:52366] logged in with entity id 2581 at (1708.8448242077704, 61.0, 941.9728307620326)
+[20:29:23] [Server thread/INFO]: Gumpyuie joined the game
+[20:29:55] [Server thread/INFO]: Gumpyuie lost connection: Disconnected
+[20:29:55] [Server thread/INFO]: Gumpyuie left the game
+[20:31:04] [Server thread/INFO]: Gumpyuie[/26.92.159.152:52499] logged in with entity id 2638 at (1708.8448242077704, 61.0, 941.9728307620326)
+[20:31:04] [Server thread/INFO]: Gumpyuie joined the game
+[20:31:14] [Server thread/INFO]: Gumpyuie has made the advancement [Local Brewery]
+[20:36:26] [Server thread/WARN]: Gumpyuie moved too quickly! -3.956837823835258,-1.0,-9.168992643352794
+[20:45:24] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -9.65066063815675,0.0,-3.717518910336821
+[20:45:24] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -10.0164903882619,0.0,-3.878054423655385
+[20:45:24] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -10.382140516342588,0.0,-4.0391133313214596
+[20:45:24] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -10.747625803207484,0.0,-4.2006502750821255
+[20:45:24] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -11.11295796461036,0.0,-4.362627917519603
+[20:45:24] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -11.478149127978213,0.0,-4.525009168086854
+[20:45:24] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -11.843210207994161,0.0,-4.687760645292656
+[20:46:41] [Server thread/INFO]: [Gumpyuie: Set the time to 1000]
+[20:49:45] [Server thread/WARN]: Gumpyuie moved too quickly! -2.5994666303017766,0.0,-9.827232911097838
+[20:51:36] [Server thread/INFO]: Gumpyuie lost connection: Disconnected
+[20:51:36] [Server thread/INFO]: Gumpyuie left the game
+[20:53:23] [Server thread/INFO]: Gumpyuie[/26.92.159.152:52651] logged in with entity id 9910 at (1831.0661110041046, 65.0, 32.34968033417171)
+[20:53:23] [Server thread/INFO]: Gumpyuie joined the game
+[20:54:13] [Server thread/INFO]: Gumpyuie lost connection: Timed out
+[20:54:13] [Server thread/INFO]: Gumpyuie left the game
+[20:54:35] [Server thread/INFO]: Gumpyuie[/26.92.159.152:52655] logged in with entity id 10244 at (1849.7552456081169, 66.0, 19.884705792996115)
+[20:54:35] [Server thread/INFO]: Gumpyuie joined the game
+[20:55:35] [Server thread/INFO]: Gumpyuie lost connection: Timed out
+[20:55:35] [Server thread/INFO]: Gumpyuie left the game
+[21:00:49] [Server thread/INFO]: ChessyP[/26.91.65.194:63247] logged in with entity id 10650 at (1757.7463337276158, 70.0, 1004.1980559677279)
+[21:00:49] [Server thread/INFO]: ChessyP joined the game
+[21:01:33] [Server thread/WARN]: ChessyP moved too quickly! -9.98546285961811,0.8378585789729982,-1.7925860100109503
+[21:02:06] [Server thread/WARN]: ChessyP moved too quickly! 8.20225300976972,2.176759275064242,-5.763276619323051
+[21:02:49] [Server thread/INFO]: <ChessyP> ChessyP
+[21:03:07] [Server thread/INFO]: Gumpyuie[/26.92.159.152:53091] logged in with entity id 11052 at (1769.300000011921, 70.79673560066871, 15.300000011920925)
+[21:03:07] [Server thread/INFO]: Gumpyuie joined the game
+[21:03:41] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -6.063889593122212,0.0,8.268805666489598
+[21:03:41] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -6.299818420364318,0.0,8.590568915780196
+[21:03:41] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -6.535806402450817,0.0,8.912413866222742
+[21:03:41] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -6.771847623895837,0.0,9.234332347700096
+[21:03:43] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.3119947345553555,0.0,-8.271131384314417
+[21:03:43] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.3119947345553555,0.0,-8.271131384314417
+[21:03:43] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.3119947345553555,0.0,-8.271131384314417
+[21:03:43] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.3119947345553555,0.0,-8.271131384314417
+[21:03:43] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.30926484312522,0.0,-8.268250981203233
+[21:03:44] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.342925973923911,0.0,-8.303768007559876
+[21:03:44] [Server thread/INFO]: [Gumpyuie: Teleported Gumpyuie to ChessyP]
+[21:04:45] [Server thread/WARN]: ChessyP moved too quickly! -9.953387347562057,2.2468000194787976,-1.4842368355705275
+[21:04:46] [Server thread/WARN]: Gumpyuie moved too quickly! -0.08888219678578935,1.2987031463477763,-10.418219065436006
+[21:05:25] [Server thread/INFO]: [Gumpyuie: Teleported ChessyP to Gumpyuie]
+[21:05:43] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.189287153291161,0.0,-1.0663924886783889
+[21:05:43] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.546228981758077,0.0,-1.2175233737914368
+[21:05:43] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.901991034877483,0.0,-1.373758859269401
+[21:05:43] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.256879719120661,0.0,-1.534263311814584
+[21:05:43] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.611148966378096,0.0,-1.698316346935485
+[21:05:43] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.965008163628,0.0,-1.8652984430407287
+[21:05:43] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 12.318629114548685,0.0,-2.0346778860899803
+[21:05:43] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 12.672152152232684,0.0,-2.2059989210606545
+[21:05:43] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 13.025691502794189,0.0,-2.3788710044482286
+[21:05:43] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 13.37933646183069,0.0,-2.552965872430377
+[21:05:43] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 13.733159520114214,0.0,-2.7280012751025424
+[21:05:43] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 14.08721646455092,0.0,-2.90373989175896
+[21:05:43] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 14.441550004345572,0.0,-3.079981522463413
+[21:05:43] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 14.796191212882604,0.0,-3.256559456065361
+[21:05:43] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 15.150845576452866,0.0,-3.4339555828395305
+[21:05:43] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 15.504930213308171,0.0,-3.613164303052713
+[21:05:43] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 15.85758998115557,0.0,-3.7955498871303917
+[21:05:44] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 8.918618458424135,0.0,-4.882381786893802
+[21:05:44] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.189909167639598,0.0,-5.156083474121715
+[21:05:44] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.449551574851512,0.0,-5.439297848550041
+[21:05:44] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.69756111133188,0.0,-5.731535275480269
+[21:05:44] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.9340537381795,0.0,-6.032278700343454
+[21:05:44] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.159229323784984,0.0,-6.340999269015924
+[21:05:44] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.373355527779268,0.0,-6.657168534634593
+[21:05:44] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.576756095211294,0.0,-6.980266787598225
+[21:05:44] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.769795988795977,0.0,-7.309790355127916
+[21:05:44] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.952871194923091,0.0,-7.645255995301568
+[21:05:44] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.12639918398827,0.0,-7.986203987418321
+[21:05:44] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.290813797591,0.0,-8.332199371055253
+[21:05:44] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.446556704260956,0.0,-8.68283333689044
+[21:05:44] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.594069531727882,0.0,-9.037723897298292
+[21:05:44] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.733102086921008,0.0,-9.396630763165376
+[21:05:44] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.060182320835793,0.0,-9.309461815450618
+[21:05:44] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.101604178975322,0.0,-9.698827480673799
+[21:05:44] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.140501758441815,0.0,-10.089223835071607
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.178012167123825,0.0,-10.480502178621009
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.215764726265434,0.0,-10.87245286047164
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.255762941493231,0.0,-11.264752723059019
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.300274505470497,0.0,-11.656906164001725
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.351736946189476,0.0,-12.048184745537128
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.412652671635897,0.0,-12.437575942456988
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.485492099725889,0.0,-12.823741452070976
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.57200177868026,0.0,-13.205362703798528
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.673332789338701,0.0,-13.581210880917638
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.79015461595759,0.0,-13.95018928899026
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.922753424073562,0.0,-14.31135582446143
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 5.07111770357028,0.0,-14.663928935986519
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 5.234542317527485,0.0,-15.0078188385653
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 5.411827493843248,0.0,-15.20774266821013
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 5.601400354505586,0.0,-15.234181792928439
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 5.8018642319530045,0.0,-15.284605532334922
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 6.01197892274763,0.0,-15.356783833587315
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 6.2306428003967085,0.0,-15.448691793864555
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 6.456876621897663,0.0,-15.558492196372299
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 6.6898088809864475,0.0,-15.68451973128117
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 6.928667800488938,0.0,-15.825261132130436
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.1727688876790126,0.0,-15.979342908879062
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.421506315728493,0.0,-16.14551747084306
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.6743398789615185,0.0,-16.322656195472746
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.93030691275203,0.0,-16.510232129016458
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 8.188584824648615,0.0,-16.707706465005117
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 8.448477372137859,0.0,-16.91453512933265
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 8.709396096985074,0.0,-17.130179499414112
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 8.970851470917069,0.0,-17.354107734717218
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.232435999077552,0.0,-17.585803383842745
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.493817236715586,0.0,-17.824765119660356
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.75418624091617,0.0,-18.070954450325075
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.012321660133694,0.0,-18.32467141139523
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.26664583897309,0.0,-18.58642173584576
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.515253521406294,0.0,-18.856800497795234
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.755956891262485,0.0,-19.136369519782193
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.98631796052723,0.0,-19.42555210943692
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.203700272650622,0.0,-19.72453141207552
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.405331137620351,0.0,-20.03316221746752
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.58836700471602,0.0,-20.350899185521826
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.752708992434691,0.0,-20.641847193088324
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.899617359608783,0.0,-20.90859949103367
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 12.030217404048699,0.0,-21.153407699443278
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 12.101579355017066,0.0,-21.40984201408355
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 12.080716703028202,0.0,-21.674761318651463
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 12.037983166678714,0.0,-21.945220781342186
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.97295747420344,0.0,-22.21853869969607
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.88568486609438,0.0,-22.49233609363057
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.7765624796682,0.0,-22.764542197845344
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.646251470731613,0.0,-23.03339260446853
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.495602404607098,0.0,-23.29741468889563
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.325595288554268,0.0,-23.55540756959317
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.137624032399799,0.0,-23.80702945580981
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.933348094009489,0.0,-24.05266889763959
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 6.698887636154041,0.0,-15.37206325097452
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 6.467689716057066,0.0,-15.609161269665833
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 6.226168608215403,0.0,-15.844494108000958
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 5.976623405440023,0.0,-16.08005689627555
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 5.721527505691938,0.0,-16.317936772437633
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 5.463545970187397,0.0,-16.56020152640997
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 5.205541905108248,0.0,-16.808789625309487
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.9505763508477685,0.0,-17.06541109086163
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.701890600824527,0.0,-17.33145196912028
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.462865355047143,0.0,-17.607884894286258
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.236978065845506,0.0,-17.89519885000732
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.027734434249396,0.0,-18.193337135467004
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 3.83858304624664,0.0,-18.501652926803786
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 3.6728242917590705,0.0,-18.818885740722067
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 3.5335093530450195,0.0,-19.14315895642494
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 3.422693303470851,0.0,-19.47225790972368
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 3.341563981976151,0.0,-19.803856697224546
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 3.290009023639641,0.0,-20.13605070305823
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 3.266954367830067,0.0,-20.467506374721665
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 3.2706296025460233,0.0,-20.797493709959326
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 3.2987666715653177,0.0,-21.125843153543883
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 3.3487355589738854,0.0,-21.45286316632837
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 3.417630910673779,0.0,-21.7792385112258
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 3.5023260438454145,0.0,-22.105918608926572
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 3.5995123912498457,0.0,-22.433998971762207
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 3.7063379654102846,0.0,-22.76427519102026
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 3.820359163702733,0.0,-23.097306046886274
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 3.9401324264115374,0.0,-23.433168748866365
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.065058291592777,0.0,-23.771591615978082
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.195225523033287,0.0,-24.1120261516553
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.3312690894319985,0.0,-24.453674170244994
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.47423291881978,0.0,-24.795490157134964
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.6254315043186125,0.0,-25.136175219582128
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.786330564734726,0.0,-25.47415975878164
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.957913868386413,0.0,-25.808063584987735
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 5.140284862715134,0.0,-26.137195537012758
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 5.332892206859242,0.0,-26.461508100838046
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 5.534693404448262,0.0,-26.781502316824458
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 5.744257758923823,0.0,-27.098118300329816
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 5.959827332968189,0.0,-27.412620415847186
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 6.179360652880405,0.0,-27.726473178277615
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 6.401112217059108,0.0,-28.04081124936772
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 6.623611077660144,0.0,-28.356496000395396
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 6.845624804007912,0.0,-28.674172593253957
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.066139246267312,0.0,-28.99430757916639
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.28433151243712,0.0,-29.317224972700274
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.49954350187727,0.0,-29.643136505558914
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.711263256187522,0.0,-29.972163404892513
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.919100208464897,0.0,-30.30435815444605
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 8.122772280466506,0.0,-30.63971768699389
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 8.322086713305453,0.0,-30.97819768641989
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 8.5169292551725,0.0,-31.319721436275245
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 8.707246988087263,0.0,-31.66419017139185
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 8.893039597986899,0.0,-32.01148878452773
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.073696034351087,0.0,-32.36173090457032
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.248099886877526,0.0,-32.715164657532114
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.41471186024819,0.0,-33.07207391513748
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.571652196590321,0.0,-33.43267683079739
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.716773380707764,0.0,-33.79703131823976
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.84773141915548,0.0,-34.16494882371319
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.96207388786297,0.0,-34.53591940690717
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.058007646416627,0.0,-34.90918019002004
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.134305519626196,0.0,-35.28383372044175
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.190226233057729,0.0,-35.65893632519942
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.22542486337943,0.0,-36.03355679440733
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.239880185993798,0.0,-36.40681718603503
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.234448006473258,0.0,-36.778246512796954
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.210652464749955,0.0,-37.147782596934235
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.170529589805938,0.0,-37.51572114214434
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.115888612156368,0.0,-37.882314725416336
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.048341265405043,0.0,-38.247780980279686
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.96870631542356,0.0,-38.611984676829366
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.87715898200804,0.0,-38.97448037297636
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.773385924226886,0.0,-39.334532937805875
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.657288225816956,0.0,-39.69151383036444
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.529502232043797,0.0,-40.045311238277804
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.391231077058364,0.0,-40.396268059749445
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.24412931863344,0.0,-40.745093222849846
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.090214858094896,0.0,-41.09275181351131
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 8.931812638402107,0.0,-41.286492594718084
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 8.771516688699421,0.0,-41.286492594718084
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 8.61214518156089,0.0,-41.286492594718084
+[21:05:45] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 8.456703731222206,0.0,-41.286492594718084
+[21:05:46] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 8.308338228239563,0.0,-41.286492594718084
+[21:05:46] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 8.170282251373692,0.0,-41.286492594718084
+[21:05:46] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 8.04579027499949,0.0,-41.286492594718084
+[21:05:46] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.937362753534444,0.0,-41.286492594718084
+[21:05:46] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.84683928294362,0.0,-41.286492594718084
+[21:05:46] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.7754848923866575,0.0,-41.286492594718084
+[21:05:46] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.711265942586579,0.0,-41.286492594718084
+[21:05:46] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.653468889297756,0.0,-41.286492594718084
+[21:05:46] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.599292124643171,0.0,-41.28198294827257
+[21:05:46] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.548144829106832,0.0,-41.273531493200494
+[21:05:46] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.499524092366073,0.0,-41.261647174545374
+[21:05:46] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.453001545152347,0.0,-41.2467846421099
+[21:05:46] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.408213153086308,0.0,-41.22934822898071
+[21:05:46] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.364850548245158,0.0,-41.20969580274971
+[21:05:46] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.322652609177339,0.0,-41.18814326328618
+[21:05:46] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.281398449390508,0.0,-41.16496871482957
+[21:05:46] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.244269706565774,0.0,-41.14411162177112
+[21:05:46] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.210853838908861,0.0,-41.12534023851583
+[21:05:46] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.180779558814265,0.0,-41.10844599403356
+[21:05:46] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.153712707446175,0.0,-41.09324117440235
+[21:05:46] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.129352541860271,0.0,-41.07955683709679
+[21:05:46] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.107428393413784,0.0,-41.067240933847984
+[21:05:47] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.087696660334586,0.0,-41.056156621217724
+[21:05:47] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.069938101033813,0.0,-41.04618074011478
+[21:05:47] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.053955398086373,0.0,-41.03720244735996
+[21:05:47] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.039570965814846,0.0,-41.02912198409467
+[21:05:47] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.057528355614977,0.0,-41.04724604291698
+[21:05:47] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.104789675642223,0.0,-41.08871342038253
+[21:05:47] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.178597437799226,0.0,-41.15097450699466
+[21:05:47] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.276451812854248,0.0,-41.23175456408126
+[21:05:47] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.396087606362244,0.0,-41.286492594718084
+[21:05:47] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.535448761172347,0.0,-41.286492594718084
+[21:05:47] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.692674734086495,0.0,-41.286492594718084
+[21:05:47] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.86607879869166,0.0,-41.286492594718084
+[21:05:47] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 8.054130849942794,0.0,-41.286492594718084
+[21:05:47] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 8.255446495491697,0.0,-41.286492594718084
+[21:05:47] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 8.468770290218572,0.0,-41.286492594718084
+[21:05:47] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 8.692965229416814,0.0,-41.286492594718084
+[21:05:47] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 8.927000971804318,0.0,-41.286492594718084
+[21:05:47] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.169945508935143,0.0,-41.286492594718084
+[21:05:47] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.420953107915693,0.0,-41.31000834816609
+[21:05:47] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.679257997252762,0.0,-41.35463240352749
+[21:05:48] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.944572114428865,0.0,-41.4176315793851
+[21:05:48] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.216965127692674,0.0,-41.49601831398195
+[21:05:48] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.496743219714517,0.0,-41.586595150670746
+[21:05:48] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.784327475905457,0.0,-41.685989054633865
+[21:05:48] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.079866285106618,0.0,-41.7913230050209
+[21:05:48] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.383305871048606,0.0,-41.900164496436446
+[21:05:48] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.694444699582164,0.0,-42.01047959726759
+[21:05:48] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 12.01278379407836,0.0,-42.121253409314704
+[21:05:48] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 12.3376371098675,0.0,-42.23232613834273
+[21:05:48] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 12.668179939061474,0.0,-42.344236486498744
+[21:05:48] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 13.003458958456577,0.0,-42.458066077207945
+[21:05:48] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 13.342370214899802,0.0,-42.575315528975466
+[21:05:48] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 13.683628229382066,0.0,-42.69777565136508
+[21:05:48] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 14.025730877975548,0.0,-42.82740800191482
+[21:05:48] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 14.337785920406759,0.0,-42.94684698849494
+[21:05:48] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 14.622533439625158,0.0,-43.057473476924315
+[21:05:48] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 14.882378822912642,0.0,-43.16053536565448
+[21:05:48] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 15.085853578384558,0.0,-43.25714667075954
+[21:05:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 15.085853578384558,0.0,-43.348285874249314
+[21:05:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 15.085853578384558,0.0,-43.434794387491934
+[21:05:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 15.085853578384558,0.0,-43.51737522883013
+[21:05:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 15.085853578384558,0.0,-43.59659340853591
+[21:05:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 15.085853578384558,0.0,-43.672877189828
+[21:05:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 15.085518750223855,0.0,-43.746521367692026
+[21:05:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 15.084181379070742,0.0,-43.817692613783606
+[21:05:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 15.081245990551224,0.0,-43.8864372586911
+[21:05:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 15.076200364559554,0.0,-43.95269171159771
+[21:05:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 15.047945448077144,0.0,-44.0445333400977
+[21:05:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 14.995121060488145,0.0,-44.15633725878638
+[21:05:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 14.917208251625652,0.0,-44.28299173691414
+[21:05:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 14.814337027940837,0.0,-44.41994720125115
+[21:05:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 14.687124701724088,0.0,-44.563229252979795
+[21:05:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 14.536846207578492,0.0,-44.71005098723742
+[21:05:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 14.365162067123947,0.0,-44.85870115410614
+[21:05:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 14.17394707584117,0.0,-45.008397412352
+[21:05:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 13.965198698662107,0.0,-45.15913712704639
+[21:05:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 13.74099526519467,0.0,-45.31154019924497
+[21:05:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 13.503497013939977,0.0,-45.466714811826364
+[21:05:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 13.254964034312707,0.0,-45.62612124510315
+[21:05:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 12.997786775452596,0.0,-45.79144822681599
+[21:05:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 12.734514685071417,0.0,-45.96449040793004
+[21:05:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 12.467882882210006,0.0,-46.14703669014568
+[21:05:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 12.200828201772083,0.0,-46.340762080090485
+[21:05:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.936485010017805,0.0,-46.54711943554321
+[21:05:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.678170141562532,0.0,-46.76724446406479
+[21:05:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.42871641291049,0.0,-47.00157862280798
+[21:05:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 11.19046561244636,0.0,-47.2500445690614
+[21:05:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.965293792134844,0.0,-47.51219339650436
+[21:05:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.754647573342481,0.0,-47.78732088694028
+[21:05:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.55958776697912,0.0,-48.07455871090781
+[21:05:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.38083518045164,0.0,-48.37294463945341
+[21:05:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.218822863446576,0.0,-48.68147586270641
+[21:05:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.073736548233455,0.0,-48.999147387697235
+[21:05:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.945554278790041,0.0,-49.32497996165171
+[21:05:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.834088025487517,0.0,-49.65803890721395
+[21:05:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.739010992827843,0.0,-49.99744690182183
+[21:05:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.65989062935796,0.0,-50.34239080390512
+[21:05:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.59621115539585,0.0,-50.69212537129954
+[21:05:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.54739781286844,0.0,-51.04597331093771
+[21:05:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.512831212576202,0.0,-51.40332460831496
+[21:05:51] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.491860263495028,0.0,-51.76363444879394
+[21:05:51] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.48382114191486,0.0,-52.126417953038754
+[21:05:51] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.488043092799444,0.0,-52.49124715626556
+[21:05:51] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.503857262678821,0.0,-52.85774646044979
+[21:05:51] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.530604506758664,0.0,-53.2255877627274
+[21:05:51] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.567642284003796,0.0,-53.5944854041295
+[21:05:51] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.614339883349885,0.0,-53.96419492032487
+[21:05:51] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.670092163288018,0.0,-54.33450527137086
+[21:05:51] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.734317332978662,0.0,-54.705236549805704
+[21:05:51] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.806458520357182,0.0,-55.07623644271632
+[21:05:51] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.885985117304017,0.0,-55.44737682035736
+[21:05:51] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.97173993828801,0.0,-55.81880505480626
+[21:05:51] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.062065779888826,0.0,-56.190868350199935
+[21:05:51] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.154900675561976,0.0,-56.564024007188436
+[21:05:51] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.248531702654418,0.0,-56.938573275598856
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.34154870655857,0.0,-57.31469905049312
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.432807924202962,0.0,-57.69249441557395
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.520704199623651,0.0,-58.07209290859964
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.603265662167132,0.0,-58.45358206510514
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.678242061574565,0.0,-58.836916667056926
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.74318378526732,0.0,-59.22183726172909
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.79622150712089,0.0,-59.607898268348436
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.835986416963578,0.0,-59.994551306646486
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.861528301904855,0.0,-60.381204371246895
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.87224945498042,0.0,-60.767264840338726
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.867843191988868,0.0,-61.15216853125435
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.848237799526714,0.0,-61.535397572893885
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.813553170929708,0.0,-61.916492732088386
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.76405857673467,0.0,-62.29505783905768
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.700752341029101,0.0,-62.67109376771191
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.62458352069575,0.0,-63.04462054941985
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.536452615105645,0.0,-63.41567535295451
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.436606886146592,0.0,-63.783955478640564
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.324791486598542,0.0,-64.14884425387697
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.200388223069467,0.0,-64.50941579461107
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 10.0630821817997,0.0,-64.8648773345135
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.913327603771677,0.0,-65.2150359317585
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.752152557139425,0.0,-65.56023285950857
+[21:05:52] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 9.581029140443206,0.0,-65.90125098131023
+[21:05:56] [Server thread/INFO]: Gumpyuie lost connection: Timed out
+[21:05:56] [Server thread/INFO]: Gumpyuie left the game
+[21:06:10] [Server thread/INFO]: Gumpyuie[/26.92.159.152:53097] logged in with entity id 11961 at (1814.2891464216154, 62.523263346301675, 773.9114925947181)
+[21:06:10] [Server thread/INFO]: Gumpyuie joined the game
+[21:06:24] [Server thread/INFO]: [Gumpyuie: Teleported Gumpyuie to ChessyP]
+[21:06:46] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 0.5133151425361575,0.0,-10.195011524807569
+[21:06:48] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -4.146019536093036,0.0,22.21920744698332
+[21:06:48] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -4.116326380343935,0.0,21.822203967487894
+[21:06:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -4.074924494770357,0.0,21.427691237746558
+[21:06:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -4.021253550627534,0.0,21.03615052961277
+[21:06:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -3.954392127578785,0.0,20.64832922343055
+[21:06:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -3.8731810486722225,0.0,20.265268079777684
+[21:06:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -3.7763556141107983,0.0,19.88831635905001
+[21:06:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -3.6626529514815047,0.0,19.519150318530137
+[21:06:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -3.5309284010759256,0.0,19.15976970779093
+[21:06:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -3.3806803468992257,0.0,18.811927044230288
+[21:06:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -3.2119051293630037,0.0,18.47709102919191
+[21:06:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -3.0600074376043267,0.0,18.175738623640427
+[21:06:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -2.9232995186430344,0.0,17.904521465828907
+[21:06:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -2.8002623948373184,0.0,17.66042603026483
+[21:06:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -2.689528986345522,0.0,17.440740144076926
+[21:06:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -2.585087712410541,0.0,17.24155996435502
+[21:06:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -2.4862955544322176,0.0,17.060880825668164
+[21:06:49] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -2.3926002848279495,0.0,16.89681038543199
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -2.3035308282042024,0.0,16.747566754788863
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -2.2186922320727263,0.0,16.611477121525354
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -2.13776334586737,0.0,16.486977262507935
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -2.060495793767359,0.0,16.372611943064953
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -1.9867138893596348,0.0,16.267034953495113
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -1.9163136428787766,0.0,16.16901105020429
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -1.8492609249922225,0.0,16.077418269904683
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -1.7855881352654706,0.0,15.991250860362697
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -1.7253887113281507,0.0,15.909622785832198
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -1.668810080006324,0.0,15.831770713840342
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -1.6160443055198357,0.0,15.757056707253014
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -1.5673169728383982,0.0,15.684969826405563
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -1.5228745924046052,0.0,15.615126304421779
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -1.4829708811437285,0.0,15.54726802815469
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -1.4470575419604756,0.0,15.486195581132165
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -1.4147355375516781,0.0,15.431230380268062
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -1.3856457343545117,0.0,15.38176170080078
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -1.376563648188494,0.0,15.301078680071669
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -1.3883487959406011,0.0,15.193799324998622
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -1.4213755388175286,0.0,15.064121807092874
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -1.4756362460711898,0.0,14.915821645668416
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -1.5508206772881294,0.0,14.752256850554204
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -1.6463915056397127,0.0,14.576389860095901
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -1.7616434654564728,0.0,14.39081256595648
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -1.895753565695486,0.0,14.197776611979066
+[21:06:50] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -2.047815882911891,0.0,13.999217908311152
+[21:06:51] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! -2.2168777662382126,0.0,13.796791963599503
+[21:07:02] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.140876966750739,0.0,-9.4562160617279
+[21:07:02] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.412463822105565,0.0,-9.735794428555096
+[21:07:02] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.68911824620136,0.0,-10.011110270062204
+[21:07:02] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 4.9704805192511685,0.0,-10.282388552134876
+[21:07:02] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 5.25621223071289,0.0,-10.54984953605117
+[21:07:02] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 5.545994468738854,0.0,-10.813709479910585
+[21:07:02] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 5.839526138527162,0.0,-11.07418124756839
+[21:07:02] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 6.136526829778859,0.0,-11.33146854044628
+[21:07:02] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 6.436330885800544,0.0,-11.586340750626164
+[21:07:02] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 6.737948488510938,0.0,-11.839998026563876
+[21:07:02] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.013240325727111,0.0,-12.071496606318306
+[21:07:02] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.2646489049600405,0.0,-12.283266897641852
+[21:07:02] [Server thread/WARN]: Boat (vehicle of Gumpyuie) moved too quickly! 7.494317868758799,0.0,-12.477525056962577
+[21:07:08] [Server thread/INFO]: [Gumpyuie: Teleported ChessyP to Gumpyuie]
+[21:08:49] [Server thread/INFO]: [Gumpyuie: Teleported ChessyP to Gumpyuie]
+[21:10:57] [Server thread/INFO]: [Gumpyuie: Teleported ChessyP to Gumpyuie]
+[21:11:28] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/14369, l='ServerLevel[world]', x=1994.96, y=72.00, z=-303.03]
+[21:11:28] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/14369, l='ServerLevel[world]', x=1994.96, y=72.00, z=-303.03]
+[21:11:44] [Server thread/INFO]: [Gumpyuie: Teleported ChessyP to Gumpyuie]
+[21:13:55] [Server thread/INFO]: [Gumpyuie: Set the time to 1000]
+[21:14:03] [Server thread/WARN]: ChessyP moved too quickly! 0.458048036647142,0.023088109101550458,-10.106136654691227
+[21:14:26] [Server thread/INFO]: There are 2 of a max of 20 players online: ChessyP, Gumpyuie
+[21:14:30] [Server thread/INFO]: [Server] hello
+[21:14:34] [Server thread/WARN]: Gumpyuie moved too quickly! 8.420049103719975,1.0013359791121417,-5.865069754503793
+[21:14:36] [Server thread/INFO]: <Gumpyuie> hi
+[21:14:38] [Server thread/INFO]: [Server] jinh mk upload jol git oy hz
+[21:14:44] [Server thread/INFO]: <Gumpyuie> bach torn te
+[21:14:46] [Server thread/INFO]: [Server] yuth rith jol discord
+[21:14:53] [Server thread/INFO]: <Gumpyuie> jol discord nh mou
+[21:15:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:15:05] [Server thread/INFO]: sa<--[HERE]
+[21:15:09] [Server thread/INFO]: Stopping the server
+[21:15:09] [Server thread/INFO]: Stopping server
+[21:15:09] [Server thread/INFO]: Saving players
+[21:15:09] [Server thread/INFO]: Saving worlds
+[21:15:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:15:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:15:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:15:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:15:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:15:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:15:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:15:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:15:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
